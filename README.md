@@ -24,7 +24,7 @@ $ npm install node-pushserver -g
 + From git:
 
 ```shell
-$ git clone git://github.com/Smile-SA/node-pushserver.git
+$ git clone https://github.com/cookie1239527/coke.git
 $ cd node-pushserver
 $ npm install -g
 ```
@@ -38,10 +38,10 @@ If you checked out this project from github, you can find a configuration file e
 {
 	"webPort": 8000,
 
-    "mongodbUrl": "mongodb://username:password@localhost/database",
+    "mongodbUrl": "mongodb://dbusr:1234@ds013004.mlab.com:13004/gcmtel",
 
     "gcm": {
-        "apiKey": "YOUR_API_KEY_HERE"
+        "apiKey": "AIzaSyAV1hi20gmDFJ8r5l6d8pMulX6AzsjGnNI"
     },
 
     "apn": {
