@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://dbusr:1234@ds013004.mlab.com:13004/gcmtel",
+
+    "gcm": {
+        "apiKey": "AIzaSyAV1hi20gmDFJ8r5l6d8pMulX6AzsjGnNI"
+    }
+}
